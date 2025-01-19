@@ -13,7 +13,7 @@ translations:
   EXIT: Esci
   SETTINGS: Impostazioni
   MENU:
-  - untranslated
+  - same
   - original: Menu
   BDM_GAMES: Giochi BDM
   HDD_GAMES: Giochi HDD
@@ -36,10 +36,10 @@ translations:
   NETWORK_ERROR_DHCP_FAIL: '%d: Server DHCP non disponibile.'
   NETWORK_ERROR_LINK_FAIL: '%d: Nessuna connessione di rete.'
   'ON':
-  - untranslated
+  - same
   - original: 'On'
   'OFF':
-  - untranslated
+  - same
   - original: 'Off'
   OK:
   - untranslated
@@ -65,7 +65,7 @@ translations:
   NO_CONTROLLER: Nessun controller rilevato, in attesa…
   COVERART: Copertina
   WIDE_SCREEN:
-  - untranslated
+  - same
   - original: Widescreen
   POWEROFF: Spegni
   LOADING_SETTINGS: Caricamento configurazione…
@@ -90,28 +90,28 @@ translations:
   IP_ADDRESS_TYPE: Tipo di Indirizzo IP
   IP_ADDRESS_TYPE_STATIC: Statico
   IP_ADDRESS_TYPE_DHCP:
-  - untranslated
+  - same
   - original: DHCP
   IP_ADDRESS: Indirizzo IP
   ADDRESS: Indirizzo
   MASK: Maschera
   GATEWAY:
-  - untranslated
+  - same
   - original: Gateway
   DNS_SERVER: Server DNS
   PORT: Porta
   SHARE: Condivisione
   USER: Utente
   PASSWORD:
-  - untranslated
+  - same
   - original: Password
   NOT_SET: <non impostato>
   ADDRESS_TYPE: Tipo di Indirizzo
   ADDR_TYPE_IP:
-  - untranslated
+  - same
   - original: IP
   ADDR_TYPE_NETBIOS:
-  - untranslated
+  - same
   - original: NetBIOS
   ACCEPT: Accetta
   DELETE_WARNING: "L'oggetto sarà cancellato in modo permanente, continuare?"
@@ -177,7 +177,7 @@ translations:
   GAME_ID: ID gioco
   DMA_MODE: Modalità DMA
   VSYNC:
-  - untranslated
+  - same
   - original: V-Sync
   MODE1: Modalità 1
   MODE2: Modalità 2
@@ -200,7 +200,7 @@ translations:
   YOFFSET: POS-V
   HINT_YOFFSET: Regolazione verticale.
   OVERSCAN:
-  - untranslated
+  - same
   - original: Overscan
   HINT_OVERSCAN: Regolazione overscan.
   GSMSKIPVIDEOS: Salta FMV
@@ -257,7 +257,7 @@ translations:
   SUPFEATURES: 'Funzionalità supportate:'
   'YES': Sì
   'NO':
-  - untranslated
+  - same
   - original: 'No'
   BT_SUPPORTED: "L'adattatore Bluetooth dovrebbe essere perfettamente compatibile con i controller DS3/DS4."
   BT_NOTSUPPORTED: "L'adattatore Bluetooth potrebbe non funzionare correttamente con i controller DS3/DS4."
@@ -273,7 +273,7 @@ translations:
   PARENLOCK_PASSWORD: Password Blocco genitori
   PARENLOCK_PASSWORD_HINT: Lascia vuoto per disabilitare il Blocco genitori.
   PARENLOCK_ENTER_PASSWORD_TITLE: Inserisci la Password del Blocco genitori
-  PARENLOCK_PASSWORD_INCORRECT: Password blocco Genitori errata.
+  PARENLOCK_PASSWORD_INCORRECT: Password Blocco genitori errata.
   PARENLOCK_DISABLE_WARNING: Blocco genitori disabilitato.
   BUILD_DETAILS: 'Opzioni Build:'
   PARENLOCK_INVALID_PASSWORD: Errore - password non utilizzabile.
